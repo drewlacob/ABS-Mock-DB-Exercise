@@ -31,3 +31,9 @@ account (
 - implemented using Node.js and Postgresql using Postgres app on Mac OS X for easy local server deployment
 - sets up connection to client, create database and table and insert mock data
 - uses get method defined to query server and return data from accounts table
+
+### Running
+
+- Run Postgres App or other SQL server on local machine
+- Edit app.js for your username and password
+- Run 'node app.js' from terminal
